@@ -1,4 +1,3 @@
-package com.verizon;
 
 public class Demo {
 
