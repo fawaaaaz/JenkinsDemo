@@ -6,8 +6,7 @@ public class Demo3 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your name");
-		String name= sc.nextLine();
-		System.out.println("Your name is:" +name);
+		System.out.println("Your name is:fawaz" );
 	}
 
 }
