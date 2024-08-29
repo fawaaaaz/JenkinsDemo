@@ -1,4 +1,4 @@
-package com.verizon;
+
 import java.util.Scanner;
 public class Demo3 {
 
